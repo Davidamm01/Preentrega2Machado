@@ -1,0 +1,14 @@
+.wp {
+    color: greenyellow;
+    position: fixed;
+    right: 15px;
+    bottom: 40px;
+    font-size: 40px;
+}
+.ig {
+    color: rgb(245, 27, 219);
+    position: fixed;
+    right: 60px;
+    bottom: 40px;
+    font-size: 40px;
+}
