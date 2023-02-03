@@ -43,3 +43,6 @@ h4{
 .sugerencia{
     color: white;
 }
+ul {
+    list-style-type: none;
+}
